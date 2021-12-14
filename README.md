@@ -564,7 +564,8 @@ Other alternatives include:
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
 </div>
-
+* reference link
+``` https://www.samanthaming.com/tidbits/70-3-ways-to-clone-objects/ ```
 ## Q. ***What are the possible ways to create objects in JavaScript?***
 
 **a.) Object constructor**: The simpliest way to create an empty object is using Object constructor. Currently this approach is not recommended.
@@ -584,7 +585,6 @@ Other alternatives include:
 ```javascript
  var object = {};
 ```
-``` https://www.samanthaming.com/tidbits/70-3-ways-to-clone-objects/ ```
 **d.) Function constructor**: Create any function and apply the new operator to create object instances,
 
 ```javascript
