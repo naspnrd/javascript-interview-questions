@@ -584,7 +584,7 @@ Other alternatives include:
 ```javascript
  var object = {};
 ```
-
+``` https://www.samanthaming.com/tidbits/70-3-ways-to-clone-objects/ ```
 **d.) Function constructor**: Create any function and apply the new operator to create object instances,
 
 ```javascript
